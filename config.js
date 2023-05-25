@@ -14,9 +14,10 @@ global.BotName = "Miku"
 global.packname = "Miku-bot"
 global.author = "By: Moch Danu Hidayat"
 global.OwnerName = "schzophree"
-global.BotSourceCode = "-------------" // -- Please don't change -- //
-global.SupportGroupLink = "------------"  // -- Please don't change -- //
+global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
+global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
+
 
 
 
